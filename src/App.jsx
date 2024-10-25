@@ -2,6 +2,7 @@ import './App.css'
 import Header from './Components/Header/Header'
 import Blogs from './Components/Blogs/Blogs'
 import Schedules from './Components/Schedules/Schedules'
+
 function App() {
   
 
@@ -14,6 +15,7 @@ function App() {
       <Blogs></Blogs>
       <Schedules></Schedules>
        </div>
+       
       
     </>
   )
